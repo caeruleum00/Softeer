@@ -10,9 +10,9 @@ HYUNDAI GROUP Softeer Code Review
 ## Level 2  
 ### 1. 8단 변속기  
 ### < 힌트 >
-sorted 함수만 안다면 아주 쉽게 풀 수 있는 문제입니다.
-시간 단축을 위해 sorted 사용 이외에 all과 zip을 이용해 풀이할 수 있습니다.
-sorted = all ~ range | all ~ zip  
+sorted 함수만 안다면 아주 쉽게 풀 수 있는 문제입니다.  
+시간 단축을 위해 sorted 사용 이외에 all과 zip을 이용해 풀이할 수 있습니다.  
+sorted = all ~ range | all ~ zip    
 
 #### < 문제 >
 변속기가 1단 ~ 8단으로 연속적으로 변속하면 ascending,    
