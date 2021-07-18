@@ -12,7 +12,11 @@ HYUNDAI GROUP Softeer Code Review
 ### < 힌트 >
 sorted 함수만 안다면 쉽게 풀 수 있는 문제입니다.  
 시간 단축을 위해 sorted 사용 이외에 all과 zip을 이용해 풀이할 수 있습니다.  
-sorted = all ~ range | all ~ zip    
+'''
+list = [1, 2, 3, 4]
+sorted(list) == list 이면 True를 반환
+all (list[i] < list[i+1] for i in range(len(list) -1)의 모든 값이 True이면 True를 반환
+all (x < y for x, y in zip(list[:-1], list[1:]))의 모든 값이 True이면 True를 반환
 
 #### < 문제 >
 변속기가 1단 ~ 8단으로 연속적으로 변속하면 ascending,    
