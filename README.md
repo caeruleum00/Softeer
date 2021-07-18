@@ -7,7 +7,7 @@ HYUNDAI GROUP Softeer Code Review
 
 
 ## Level 2  
-1. 8단 변속기  
+### 1. 8단 변속기  
 #### < 문제 >
 변속기가 1단 ~ 8단으로 연속적으로 변속하면 ascending,    
 8단 ~ 1단으로 연속적으로 변속하면 descending,   
