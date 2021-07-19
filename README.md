@@ -5,7 +5,7 @@ HYUNDAI GROUP Softeer Code Review
 ## List
 ### Level 2
 [1. 8단 변속기](#8단-변속기)
-
+[2. 금고털이(#금고털이)
 
 ## Level 2  
 ### 1. 8단 변속기  
@@ -34,3 +34,5 @@ all (x < y for x, y in zip(list[:-1], list[1:]))의 모든 값이 True이면 Tru
 ```
 ascending
 ```
+
+### 2. 금고털이
