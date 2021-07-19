@@ -4,11 +4,11 @@ HYUNDAI GROUP Softeer Code Review
 
 ## List
 ### Level 2
-[1. 8단 변속기](#1.-8단-변속기)  
-[2. 금고털이](#2.-금고털이)
+[1. 8단 변속기](#1)-8단-변속기)  
+[2. 금고털이](#2)-금고털이)
 
 ## Level 2  
-### 1. 8단 변속기  
+### 1) 8단 변속기  
 ### < 힌트 >
 sorted 함수만 안다면 쉽게 풀 수 있는 문제입니다.  
 시간 단축을 위해 sorted를 사용하지 않고 all, range, zip을 이용해 풀이할 수도 있습니다.  
@@ -35,4 +35,4 @@ all (x < y for x, y in zip(list[:-1], list[1:]))의 모든 값이 True이면 Tru
 ascending
 ```
 
-### 2. 금고털이
+### 2) 금고털이
