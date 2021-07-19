@@ -4,7 +4,7 @@ HYUNDAI GROUP Softeer Code Review
 
 ## List
 ### Level 2
-[1. 8단 변속기](#8단-변속기)
+[1. 8단 변속기](#8단-변속기)  
 [2. 금고털이](#금고털이)
 
 ## Level 2  
